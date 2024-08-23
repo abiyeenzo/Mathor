@@ -16,7 +16,11 @@ git clone https://github.com/abiyeenzo/Mathor
 cd Mathor
 ```
 
-Assurez-vous d'avoir Python installé sur votre système.
+Assurez-vous d'avoir Python installé sur votre système. Si `sympy` n'est pas déjà installé, vous pouvez l'ajouter avec la commande suivante :
+
+```bash
+pip install sympy
+```
 
 ## Utilisation
 
@@ -31,6 +35,24 @@ Pour exécuter un fichier `.mth`, passez le nom du fichier en argument :
 ```bash
 python3 main.py votre-fichier.mth
 ```
+
+## Création d'un exécutable
+
+Si vous souhaitez créer un fichier exécutable pour Mathor sur Linux, suivez ces étapes :
+
+1. Installez PyInstaller :
+
+```bash
+pip install pyinstaller
+```
+
+2. Créez l'exécutable :
+
+```bash
+pyinstaller --onefile --name Mathor main.py
+```
+
+3. L'exécutable `Mathor` sera généré dans le dossier `dist`.
 
 ## Contribution
 

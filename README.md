@@ -12,7 +12,7 @@ Mathor est un interpréteur de calcul en Python, capable de gérer des opératio
 Clonez le dépôt GitHub et accédez au répertoire du projet :
 
 ```bash
-git clone https://github.com/votre-utilisateur/mathor.git
+git clone https://github.com/abiyeenzo/mathor.git
 cd mathor
 ```
 

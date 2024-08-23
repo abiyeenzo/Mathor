@@ -12,8 +12,8 @@ Mathor est un interpréteur de calcul en Python, capable de gérer des opératio
 Clonez le dépôt GitHub et accédez au répertoire du projet :
 
 ```bash
-git clone https://github.com/abiyeenzo/mathor.git
-cd mathor
+git clone https://github.com/abiyeenzo/Mathor
+cd Mathor
 ```
 
 Assurez-vous d'avoir Python installé sur votre système.

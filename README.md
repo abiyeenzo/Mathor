@@ -42,4 +42,4 @@ Ce projet est sous double licence MIT et GNU GPLv3. Vous pouvez choisir d'utilis
 
 ## Crédits
 
-Mathor est un projet développé par **Æ Corp**, fondé par **Abiye Enzo**.
+Mathor est un projet développé par **Æ Corp.**, fondé par **Abiye Enzo**.
